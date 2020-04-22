@@ -1,7 +1,7 @@
 ## The Ultimate Cookbook
  This application is for you if you want to -
- * Save online recipe search time by providing a one-stop solution.
- * Cater to every mood with categorized search options.
+ * Save online recipe search time at a one-stop solution.
+ * Cater to every's mood with categorized search options.
  * Cook healthy home-cooked meals with detailed illustrations.
  * Get an exposure to global food cultures and cuisines at one place.
  * Enjoy exciting food from the comfort of home.
