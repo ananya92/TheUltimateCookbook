@@ -28,3 +28,8 @@
 ### Deployed application URL -
 https://ananya92.github.io/TheUltimateCookbook/
 
+## Application Screenshot
+![Project Snapshot](https://github.com/ananya92/My-Portfolio/blob/master/src/components/projects/img/pr2_1.PNG)
+***
+![Project Snapshot](https://github.com/ananya92/My-Portfolio/blob/master/src/components/projects/img/pr2_2.PNG)
+
